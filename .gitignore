@@ -1,0 +1,5 @@
+/target
+*.o
+kernel.elf
+kernel.img
+kernel.list
